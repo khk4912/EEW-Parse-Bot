@@ -1,2 +1,2 @@
 ## Example
-![example](./image/unknown.png)
+![example](./img/unknown.png)
