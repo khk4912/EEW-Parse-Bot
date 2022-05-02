@@ -2,4 +2,4 @@
 
 ## Example
 
-![example](./img/unknown.png)
+![example](./img/test.png)
